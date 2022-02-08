@@ -1,0 +1,78 @@
+Python 3.10.1 (tags/v3.10.1:2cd268a, Dec  6 2021, 19:10:37) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+==================== RESTART: C:\Users\sani2\Desktop\3q1.txt ===================
+Please enter the string:
+my  name is sanidhya sharma and my program works
+{'my': 2, 'name': 1, 'is': 1, 'sanidhya': 1, 'sharma': 1, 'and': 1, 'program': 1, 'works': 1}
+
+==================== RESTART: C:\Users\sani2\Desktop\3q2.txt ===================
+Please enter the day:
+9
+Please enter the month:
+2
+Please enter the year:
+2022
+10/2/2022
+
+==================== RESTART: C:\Users\sani2\Desktop\3q3.txt ===================
+Enter the numbers you want to square while leaving space after every number:
+2 4  5 1 3 9 10
+input list is: [2, 4, 5, 1, 3, 9, 10]
+Required output is:
+ [(2, 4), (4, 16), (5, 25), (1, 1), (3, 9), (9, 81), (10, 100)]
+
+==================== RESTART: C:\Users\sani2\Desktop\3q4.txt ===================
+Please enter your grade between 4 and 10:
+10
+Your grade is 'A+' and Outstanding performance
+
+==================== RESTART: C:\Users\sani2\Desktop\3q5.txt ===================
+ABCDEFGHIJK
+ ABCDEFGHI
+  ABCDEFG
+   ABCDE
+    ABC
+     A
+
+======================================================================== RESTART: C:\Users\sani2\Desktop\3q6.txt =======================================================================
+Please enter student's name and for stopping enter N:
+sanidhya
+Please enter student's SID and for stopping enter N:
+21103044
+Please enter student's name and for stopping enter N:
+rohan
+Please enter student's SID and for stopping enter N:
+21103041
+Please enter student's name and for stopping enter N:
+madhav
+Please enter student's SID and for stopping enter N:
+21103011
+Please enter student's name and for stopping enter N:
+N
+Part A : {21103044: 'sanidhya', 21103041: 'rohan', 21103011: 'madhav'}
+Part B : {21103011: 'madhav', 21103041: 'rohan', 21103044: 'sanidhya'}
+Part C : {21103011: 'madhav', 21103041: 'rohan', 21103044: 'sanidhya'}
+Please enter SID of the student you want to search for:
+21103044
+Part D : sanidhya
+
+======================================================================== RESTART: C:\Users\sani2\Desktop\3q7.txt =======================================================================
+Enter the number of terms in the series:
+7
+Fibonacci sequence: 
+0
+1
+1
+2
+3
+5
+8
+Average of resultant fibonacci series is 2.857142857142857
+
+======================================================================== RESTART: C:\Users\sani2\Desktop\3q8.txt =======================================================================
+Part A : {1, 3, 5, 6, 8}
+Part B:  {17, 3, 6, 8, 9, 13}
+Part C : {1, 2, 4, 5}
+Part D : {6, 7, 8, 9, 10}
+Part E : {10, 7}
